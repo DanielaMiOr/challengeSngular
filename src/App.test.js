@@ -1,8 +1,14 @@
 import { render, screen } from '@testing-library/react';
+import '@testing-library/jest-dom'
 import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+describe('renders input value', () => {
+
+  it('should render Email input element',  () => {
+    render(<App />);
+    const inputValue = screen.getByPlaceholderText(/Inserte el número n:/i)
+    expect(inputValue).toBeInTheDocument();
+  });
+
 });
+
