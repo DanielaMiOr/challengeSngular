@@ -13,7 +13,7 @@
 ## 1. Resumen del proyecto y visualizacion
 **Challenge Sngular** este proyecto fue realizado con el propósito de un challenge realizado para la empresa Sngular.
 El cuál consiste en poder calcular el resultado de un número tecleado por el usuario  y ejecutar un método para realizar 3 tipos de operación **Fibonacci, números primos y triangular** .
-Para poder ver el proyecto dar [click aqui ]()
+
 
 
 
