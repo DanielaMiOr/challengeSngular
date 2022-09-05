@@ -1,12 +1,16 @@
 const Calculator = (n) => {
+   
+  
     if (n < 2) {
         return null;
     } else {
         const serie = (2 * fibonacci(n - 2)) + (3 * triangular(n - 2)) - (7 * primaryNumber(n - 1));
         return serie;
     }
+
 }
 const fibonacci = (n) => {
+  
     if (n < 2) {
         return n;
     } else {
