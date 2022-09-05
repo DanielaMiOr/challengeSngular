@@ -1,4 +1,4 @@
-# Harry Potter Challenge
+#  Challenge Sngular
 <p align="center"><img src="https://d39bmof8blmz8u.cloudfront.net/wp-content/uploads/2022/03/Dia-Internacional-de-las-Matematicas.png"/> </p>
 ## Índice
 
